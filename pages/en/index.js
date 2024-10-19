@@ -1,14 +1,8 @@
 // pages/en/index.js
 import React from 'react';
 
-const HomeEn = () => {
-  return (
-    <div>
-      <h1>AI & FUTURE by EMILY</h1>
-      {/* Other content */}
-    </div>
-  );
+const EnglishPage = () => {
+    return <h1>Welcome to My Blog (English)</h1>;
 };
 
-export default HomeEn;
-
+export default EnglishPage;
